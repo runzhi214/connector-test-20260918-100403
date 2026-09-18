@@ -1,0 +1,2 @@
+This is a temporary file for testing delete_file action.
+It should be deleted after the test.
